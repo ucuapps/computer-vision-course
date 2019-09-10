@@ -33,16 +33,16 @@
 |Neural Networks architectures    	    |   	          |   	          |   	              |   	              |              |
 |**Module 2 (Oct)**                     |5              |5              |20                 |                   |              |
 |CNN for object detection         	    |   	          |   	          |   	              |   	              |              |
-|CNN for face recognition     	        |   	          |   	          |   	              |   	              |              |
 |CNN for OCR    	                      |   	          |   	          |   	              |   	              |              |
+|CV project organization in real life   |   	          |   	          |   	              |   	              |              |
 |**Module 3 (Nov)**                     |5              |5              |20                 |                   |              |
-|CNN for image segmentation     	      |   	          |   	          |   	              |   	              |              |
+|CNN for face recognition     	        |   	          |   	          |   	              |   	              |              |
 |Generative Adversarial Networks        |   	          |   	          |   	              |   	              |              |
 |CNN for image restoration              |   	          |   	          |   	              |   	              |              |
 |**Module 4 (Dec)**                     |5              |5              |20                 |                   |              |
 |Image Retrieval     	                  |   	          |   	          |   	              |   	              |              |
+|CNN for image segmentation     	      |   	          |   	          |   	              |   	              |              |
 |Bioinformatics     	                  |   	          |   	          |   	              |   	              |              |
-|CV project organization in real life   |   	          |   	          |   	              |   	              |              |
 |**Total**                              |20             |20             |80                 |                   |              |
 
 
@@ -64,4 +64,4 @@
 * Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
 * Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002. ([pdf](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
 * cs231n ([course notes](http://cs231n.github.io) | [video lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))
-* cs131 ([course notes](https://github.com/StanfordVL/CS131_notes) | [](http://cs231n.stanford.edu))
+* cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
