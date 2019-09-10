@@ -3,7 +3,7 @@
 ## General Information
 **Teachers:**
 
-* Tetiana Martyniuk, email:
+* [Tetiana Martyniuk](https://www.linkedin.com/in/t-martyniuk/), email: t.martynyuk@ucu.edu.ua
 * [Oles Dobosevych](https://apps.ucu.edu.ua/en/personal/oles-dobosevych/), email: dobosevych@ucu.edu.ua
 * [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/yaroslava-lochman/), email: lochman@ucu.edu.ua
 
