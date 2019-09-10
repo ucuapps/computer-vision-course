@@ -25,25 +25,25 @@
 
 ## Schedule and Syllabus
 
-|Event   	                           	|Lecture hours  |Seminar hours  |Self work hours    |Course Materials   |Assignments   |
-|---	                                |---	|---	|---	|---	|---	|
-|**Module 1**
-|Intro to CNN    	                    |   	|   	|   	|   	|
-|CNN for image classification           |   	|   	|   	|   	|
-|Neural Networks architectures    	    |   	|   	|   	|   	|
-|CNN for image segmentation     	    |   	|   	|   	|   	|
-|**Module 2**
-|CNN for face recognition     	        |   	|   	|   	|   	|
-|CNN for OCR    	                    |   	|   	|   	|   	|
-|**Module 3**
-|Generative Adversarial Networks        |   	|   	|   	|   	|
-|CNN for image restoration              |   	|   	|   	|   	|
-|**Module 4**
-|Image Retrieval     	                |   	|   	|   	|   	|
-|Bioinformatics     	                |   	|   	|   	|   	|
-|**Module 5**
-|CV project organization in real life   |   	|   	|   	|   	|
-|**Total**                                  |       |       |       |
+|   	                           	      |Lecture hours  |Seminar hours  |Self work hours    |Course Materials   |Assignments   |
+|---	                                  |---	          |---	          |---	              |---	              |---	         |
+|**Module 1 (Sep)**                     |5              |5              |20                 |                   |              |
+|Intro to CNN    	                      |   	          |   	          |   	              |   	              |              |
+|CNN for image classification           |   	          |   	          |   	              |   	              |              |
+|Neural Networks architectures    	    |   	          |   	          |   	              |   	              |              |
+|**Module 2 (Oct)**                     |5              |5              |20                 |                   |              |
+|CNN for object detection         	    |   	          |   	          |   	              |   	              |              |
+|CNN for face recognition     	        |   	          |   	          |   	              |   	              |              |
+|CNN for OCR    	                      |   	          |   	          |   	              |   	              |              |
+|**Module 3 (Nov)**                     |5              |5              |20                 |                   |              |
+|CNN for image segmentation     	      |   	          |   	          |   	              |   	              |              |
+|Generative Adversarial Networks        |   	          |   	          |   	              |   	              |              |
+|CNN for image restoration              |   	          |   	          |   	              |   	              |              |
+|**Module 4 (Dec)**                     |5              |5              |20                 |                   |              |
+|Image Retrieval     	                  |   	          |   	          |   	              |   	              |              |
+|Bioinformatics     	                  |   	          |   	          |   	              |   	              |              |
+|CV project organization in real life   |   	          |   	          |   	              |   	              |              |
+|**Total**                              |20             |20             |80                 |                   |              |
 
 
 ## Course Policy
