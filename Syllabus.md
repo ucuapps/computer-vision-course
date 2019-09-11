@@ -25,33 +25,31 @@
 
 ## Schedule and Syllabus
 
-|   	                           	      |Lecture hours  |Seminar hours  |Self work hours    |Course Materials   |Assignments   |
-|---	                                  |---	          |---	          |---	              |---	              |---	         |
-|**Module 1 (Sep)**                     |5              |5              |20                 |                   |              |
-|Intro to CNN    	                      |   	          |   	          |   	              |   	              |              |
-|CNN for image classification           |   	          |   	          |   	              |   	              |              |
-|Neural Networks architectures    	    |   	          |   	          |   	              |   	              |              |
-|**Module 2 (Oct)**                     |5              |5              |20                 |                   |              |
-|CNN for object detection         	    |   	          |   	          |   	              |   	              |              |
-|CNN for OCR    	                      |   	          |   	          |   	              |   	              |              |
-|CV project organization in real life   |   	          |   	          |   	              |   	              |              |
-|**Module 3 (Nov)**                     |5              |5              |20                 |                   |              |
-|CNN for face recognition     	        |   	          |   	          |   	              |   	              |              |
-|Generative Adversarial Networks        |   	          |   	          |   	              |   	              |              |
-|CNN for image restoration              |   	          |   	          |   	              |   	              |              |
-|**Module 4 (Dec)**                     |5              |5              |20                 |                   |              |
-|Image Retrieval     	                  |   	          |   	          |   	              |   	              |              |
-|CNN for image segmentation     	      |   	          |   	          |   	              |   	              |              |
-|Bioinformatics     	                  |   	          |   	          |   	              |   	              |              |
-|**Total**                              |20             |20             |80                 |                   |              |
+|   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |Assignments   |
+|---	                                  |---	          |---	              |---	              |---	         |
+|**Module 1 (Sep)**                     |9              |18                 |                   |              |
+|Intro to CNN    	                      |   	          |   	              |   	              |              |
+|Neural Networks Architectures    	    |   	          |   	              |   	              |              |
+|CNN for Image Classification           |   	          |   	              |   	              |              |
+|**Module 2 (Oct)**                     |9              |18                 |                   |              |
+|CNN for Face Recognition     	        |   	          |   	              |   	              |              |
+|CNN for OCR    	                      |   	          |   	              |   	              |              |
+|CNN for Image Segmentation     	      |   	          |   	              |   	              |              |
+|**Module 3 (Nov)**                     |9              |18                 |                   |              |
+|CNN Autoencoders                       |   	          |   	              |   	              |              |
+|Generative Adversarial Networks        |   	          |   	              |   	              |              |
+|CNN for Image Restoration              |   	          |   	              |   	              |              |
+|**Module 4 (Dec)**                     |9              |18                 |                   |              |
+|Instance-level Visual Recognition     	|   	          |   	              |   	              |              |
+|R-CNN family for Object Detection      |   	          |   	              |   	              |              |
+|CV project organization and deployment |   	          |   	              |   	              |              |
+|**Total**                              |36             |72                 |                   |              |
 
 
 ## Course Policy
 
 * No plagiarism and other violation of academic integrity is allowed. Be sure to obey the [academic code of honour of UCU](https://s3-eu-central-1.amazonaws.com/ucu.edu.ua/wp-content/uploads/2017/04/Polozhennya_pro_plagiat.pdf).
 * A completed assignment should be submitted to `cms` as an archive (named as **Name-Surname-CV-HW#**) or a link to the repository.
-
-<!-- Жодні форми порушення академічної доброчесності не толеруються. У випадку таких подій реагування відповідно до [Положення]. -->
 
 ## Grading Policy
 * Assignment #1: 25%
@@ -61,10 +59,12 @@
 
 ## Recommended Materials
 
-* Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
-* Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002. ([pdf](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
 * cs231n ([course notes](http://cs231n.github.io) | [video lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))
 
-### Optional
-* cs131 ([course notes](https://github.com/StanfordVL/CS131_notes)) - classical methods
-* EPFL DL course ([course](https://fleuret.org/ee559/)) - deep learning
+### Classical CV (optional)
+* Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
+* Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002. ([pdf](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
+* cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
+
+### Deep Learning (optional)
+* EPFL DL course ([course](https://fleuret.org/ee559/))
