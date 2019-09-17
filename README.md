@@ -4,8 +4,8 @@
 
 **Teachers:**
 * [Oles Dobosevych](https://apps.ucu.edu.ua/en/personal/oles-dobosevych), email: dobosevych@ucu.edu.ua
-* [Tetiana Martyniuk](https://www.linkedin.com/in/t-martyniuk), email: t.martynyuk@ucu.edu.ua
-* [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/yaroslava-lochman), email: lochman@ucu.edu.ua
+* [Tetiana Martyniuk](https://apps.ucu.edu.ua/en/personal/tmartyniuk), email: t.martynyuk@ucu.edu.ua
+* [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/ylochman), email: lochman@ucu.edu.ua
 
 **CMS:** [link to the course at cms]
 
