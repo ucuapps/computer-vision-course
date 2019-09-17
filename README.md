@@ -34,10 +34,10 @@
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
 |**Module 4. Instance-level Recognition (Dec)**|9       |18                 |[\[Assignment #4\]]() |
-|Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]()   	                          |
-|R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]()   	                          |
-|Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]()   	                          |
-|**\*optional: Face Recognition**       |               |                   |recent advances: [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
+|Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]() <br> papers: [FPN](https://arxiv.org/pdf/1612.03144.pdf), [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf)   	                          |
+|R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]() <br> papers: [R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf), [YOLO](https://arxiv.org/pdf/1506.02640.pdf), [YOLO9000](https://arxiv.org/pdf/1612.08242.pdf), [YOLOv3](https://arxiv.org/pdf/1804.02767.pdf), [SSD](https://arxiv.org/pdf/1512.02325.pdf)   	                          |
+|Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]() <br> papers: [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)   	                          |
+|**\*optional: Face Recognition**       |               |                   |papers: [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
 |**Total**                              |36             |72                 |                               |
 
 
