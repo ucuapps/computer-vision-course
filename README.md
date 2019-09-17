@@ -37,7 +37,7 @@
 |Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]()   	                          |
 |R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]()   	                          |
 |Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]()   	                          |
-|**\*optional: Face Recognition**       |               |                   |                               |
+|**\*optional: Face Recognition**       |               |                   |recent advances: [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
 |**Total**                              |36             |72                 |                               |
 
 
