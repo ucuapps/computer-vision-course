@@ -4,7 +4,7 @@
 
 **Teachers:**
 * [Oles Dobosevych](https://apps.ucu.edu.ua/en/personal/oles-dobosevych), email: dobosevych@ucu.edu.ua
-* [Igor Krashenyi](https://scholar.google.com.ua/citations?user=J3GqVSMAAAAJ&hl), email: 
+* [Igor Krashenyi](https://scholar.google.com.ua/citations?user=J3GqVSMAAAAJ&hl), email: igor.krashenyi@gmail.com
 * [Tetiana Martyniuk](https://apps.ucu.edu.ua/en/personal/tmartyniuk), email: t.martynyuk@ucu.edu.ua
 * [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/ylochman), email: lochman@ucu.edu.ua
 
