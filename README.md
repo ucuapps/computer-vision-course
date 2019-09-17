@@ -37,7 +37,7 @@
 |Modules and Objectives for Instance-level Recognition|   	          |   	              |   	              |              |
 |R-CNN family, YOLO, SSD for Object Detection|   	          |   	              |   	              |              |
 |Mask R-CNN for Instance Segmentation   |   	          |   	              |   	              |              |
-|**(optional) CNNs for Face Recognition**|              |                 |                   |              |
+|**\*optional: Face Recognition**|              |                 |                   |              |
 |**Total**                              |36             |72                 |                   |              |
 
 
