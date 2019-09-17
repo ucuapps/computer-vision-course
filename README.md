@@ -21,7 +21,7 @@
 * 8:30 — 11:30 @ Sheptytsky Center, Room 308
 
 ## Schedule and Syllabus
-|   	                           	      |Сlass Hours    |Self work hours    |Course Materials, Assignments   |
+|   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |
 |---	                                  |---	          |---	              |---	     	         |
 |**Module 1. Introduction (Sep)**       |9              |18                 |[\[Assignment #1\]]() |
 |Intro to CNN    	                      |   	          |   	              |   	                          |
@@ -34,9 +34,9 @@
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
 |**Module 4. Instance-level Recognition (Dec)**|9       |18                 |[\[Assignment #4\]]() |
-|Modules and Objectives for Instance-level Recognition| |   	              |   	                          |
-|R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |   	                          |
-|Mask R-CNN for Instance Segmentation   |   	          |   	              |   	                          |
+|Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]()   	                          |
+|R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]()   	                          |
+|Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]()   	                          |
 |**\*optional: Face Recognition**       |               |                   |                               |
 |**Total**                              |36             |72                 |                               |
 
