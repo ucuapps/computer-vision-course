@@ -24,20 +24,19 @@
 |---	                                  |---	          |---	              |---	              |---	         |
 |**Module 1 (Sep)**                     |9              |18                 |                   |              |
 |Intro to CNN    	                      |   	          |   	              |   	              |              |
-|General NN Architecture                |   	          |   	              |   	              |              |
-|CNN for Image Classification           |   	          |   	              |   	              |              |
+|CNNs for Image Classification          |   	          |   	              |   	              |              |
+|CNNs for OCR    	                      |   	          |   	              |   	              |              |
 |**Module 2 (Oct)**                     |9              |18                 |                   |              |
-|CNN for Face Recognition     	        |   	          |   	              |   	              |              |
-|CNN for OCR    	                      |   	          |   	              |   	              |              |
-|CNN for Image Segmentation     	      |   	          |   	              |   	              |              |
+|CNNs for Image Segmentation     	      |   	          |   	              |   	              |              |
 |**Module 3 (Nov)**                     |9              |18                 |                   |              |
-|CNN Autoencoders                       |   	          |   	              |   	              |              |
-|Generative Adversarial Networks        |   	          |   	              |   	              |              |
-|CNN for Image Restoration              |   	          |   	              |   	              |              |
-|**Module 4 (Dec)**                     |9              |18                 |                   |              |
-|Instance-level Visual Recognition     	|   	          |   	              |   	              |              |
-|R-CNN family for Object Detection      |   	          |   	              |   	              |              |
-|CV project organization and deployment |   	          |   	              |   	              |              |
+|Autoencoders                           |   	          |   	              |   	              |              |
+|Generative Models                      |   	          |   	              |   	              |              |
+|CNNs for Image Restoration             |   	          |   	              |   	              |              |
+|**Module 4 Instance-level Visual Recognition (Dec)**|9              |18                 |                   |              |
+|Modules                                |   	          |   	              |   	              |              |
+|R-CNN family, YOLO, SSD for Object Detection|   	          |   	              |   	              |              |
+|Mask R-CNN for Instance Segmentation   |   	          |   	              |   	              |              |
+|CNNs for Face Recognition (optional)   |   	          |   	              |   	              |              |
 |**Total**                              |36             |72                 |                   |              |
 
 
@@ -61,4 +60,4 @@
 * cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
 
 ### Deep Learning (optional)
-* EPFL DL course ([course](https://fleuret.org/ee559/))
+* EPFL DL course ([course](https://fleuret.org/ee559))
