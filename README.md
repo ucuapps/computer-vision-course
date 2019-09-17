@@ -4,6 +4,7 @@
 
 **Teachers:**
 * [Oles Dobosevych](https://apps.ucu.edu.ua/en/personal/oles-dobosevych), email: dobosevych@ucu.edu.ua
+* [Igor Krashenyi](https://scholar.google.com.ua/citations?user=J3GqVSMAAAAJ&hl), email: 
 * [Tetiana Martyniuk](https://apps.ucu.edu.ua/en/personal/tmartyniuk), email: t.martynyuk@ucu.edu.ua
 * [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/ylochman), email: lochman@ucu.edu.ua
 
@@ -22,21 +23,21 @@
 ## Schedule and Syllabus
 |   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |Assignments   |
 |---	                                  |---	          |---	              |---	              |---	         |
-|**Module 1 (Sep)**                     |9              |18                 |                   |              |
+|**Module 1. Introduction (Sep)**                     |9              |18                 |                   |              |
 |Intro to CNN    	                      |   	          |   	              |   	              |              |
 |CNNs for Image Classification          |   	          |   	              |   	              |              |
 |CNNs for OCR    	                      |   	          |   	              |   	              |              |
-|**Module 2 (Oct)**                     |9              |18                 |                   |              |
+|**Module 2. (Oct)**                     |9              |18                 |                   |              |
 |CNNs for Image Segmentation     	      |   	          |   	              |   	              |              |
-|**Module 3 (Nov)**                     |9              |18                 |                   |              |
+|**Module 3. Generative Models (Nov)**   |9              |18                 |                   |              |
 |Autoencoders                           |   	          |   	              |   	              |              |
-|Generative Models                      |   	          |   	              |   	              |              |
+|VAE, GANs                              |   	          |   	              |   	              |              |
 |CNNs for Image Restoration             |   	          |   	              |   	              |              |
-|**Module 4 Instance-level Visual Recognition (Dec)**|9              |18                 |                   |              |
-|Modules                                |   	          |   	              |   	              |              |
+|**Module 4. Instance-level Recognition (Dec)**|9              |18                 |                   |              |
+|Modules and Objectives for Instance-level Recognition|   	          |   	              |   	              |              |
 |R-CNN family, YOLO, SSD for Object Detection|   	          |   	              |   	              |              |
 |Mask R-CNN for Instance Segmentation   |   	          |   	              |   	              |              |
-|CNNs for Face Recognition (optional)   |   	          |   	              |   	              |              |
+|**(optional) CNNs for Face Recognition**|              |                 |                   |              |
 |**Total**                              |36             |72                 |                   |              |
 
 
