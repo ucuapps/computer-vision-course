@@ -28,7 +28,9 @@
 |CNNs for Image Classification          |   	          |   	              |   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
 |**Module 2. (Oct)**                    |9              |18                 |[\[Assignment #2\]]() |
-|CNNs for Image Segmentation     	      |   	          |   	              |   	                          |
+|Intro to Segmentation. Problem Statement|   	          |   	              |   	                          |
+|CNNs for Semantic Segmentation         |   	          |   	              |   	                          |
+|Other Fancy Segmentation Problems      |   	          |   	              |                               |
 |**Module 3. Generative Models (Nov)**  |9              |18                 |[\[Assignment #3\]]() |
 |Autoencoders                           |   	          |   	              |   	                          |
 |VAE, GANs                              |   	          |   	              |   	                          |
