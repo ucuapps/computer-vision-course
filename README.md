@@ -8,7 +8,7 @@
 * [Tetiana Martyniuk](https://apps.ucu.edu.ua/en/personal/tmartyniuk), email: t.martynyuk@ucu.edu.ua
 * [Yaroslava Lochman](https://apps.ucu.edu.ua/en/personal/ylochman), email: lochman@ucu.edu.ua
 
-**CMS:** [link to the course at cms]
+**[CMS](https://cms.ucu.edu.ua/course/view.php?id=2248)**
 
 **Course Description:** Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are image classification, localization, detection and other visual tasks. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course will give students an understanding and practical experience with many important deep CNN models applied for specific tasks of classification, segmentation, detection, recognition and restoration.
 
