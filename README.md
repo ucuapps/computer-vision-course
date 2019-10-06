@@ -17,8 +17,8 @@
 
 ## Course Format
 * Lectures + Seminars
-* Every Tuesday (Sep 17, 2019 –– Dec 24, 2019)
-* 8:30 — 11:30 @ Sheptytsky Center, Room 308
+* Every Tuesday (Sep 17, 2019 –– Dec 31, 2019)
+* 11:50 - 13:10, 13:30 - 14:50 @ Kozelnytska, Room K308
 
 ## Schedule and Syllabus
 |   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |
