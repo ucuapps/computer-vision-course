@@ -24,8 +24,8 @@
 |   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |
 |---	                                  |---	          |---	              |---	     	         |
 |**Module 1. Introduction (Sep)**       |9              |18                 |[Deep Learning for Computer Vision](https://github.com/lyubonko/ucu2019)<br>[\[Assignment #1\]]() |
-|Intro to CNN    	                      |   	          |   	              |[\[slides\]](module1/lecture1_intro.pdf)   	                          |
-|CNNs for Image Classification          |   	          |   	              |[\[slides\]](module2/lecture2_CNN.pdf)   	                          |
+|Intro to CNN    	                      |   	          |   	              |[\[slides\]](./module1/lecture1_intro.pdf)   	                          |
+|CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
 |**Module 2. (Oct)**                    |9              |18                 |[\[Assignment #2\]]() |
 |Intro to Segmentation. Problem Statement|   	          |   	              |   	                          |
