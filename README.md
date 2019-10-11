@@ -27,11 +27,11 @@
 |Intro to CNN    	                      |   	          |   	              |[\[slides\]](./module1/lecture1_intro.pdf)   	                          |
 |CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
-|**Module 2. (Oct)**                    |9              |18                 |[\[Assignment #2\]]() |
-|Intro to Segmentation. Problem Statement|   	          |   	              |   	                          |
-|CNNs for Semantic Segmentation         |   	          |   	              |   	                          |
-|Other Fancy Segmentation Problems      |   	          |   	              |                               |
-|**Module 3. Generative Models (Nov)**  |9              |18                 |[\[Assignment #3\]]() |
+|**Module 2. Image Segmentation (Oct)**                    |9              |18                   | |
+|Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2/lecture1_image_segmentation.pdf)   	                          |
+|Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
+|Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
+|**Module 3. Generative Models (Nov)**  |9              |18                   |[\[Assignment #3\]]() |
 |Autoencoders                           |   	          |   	              |   	                          |
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
