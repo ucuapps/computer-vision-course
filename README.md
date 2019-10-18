@@ -27,15 +27,15 @@
 |Intro to CNN    	                      |   	          |   	              |[\[slides\]](./module1-intro/lecture1_intro.pdf)   	                          |
 |CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1-intro/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
-|**Module 2. Image Segmentation (Oct)**                    |9              |18                   | |
+|**Module 2. Image Segmentation (Oct, 11—14)**                    |9              |18                   | |
 |Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
 |Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
 |Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
-|**Module 3. Generative Models (Nov)**  |9              |18                   |[\[Assignment #3\]]() |
+|**Module 3. Generative Models (Nov, 22—25)**  |9              |18                   |[\[Assignment #3\]]() |
 |Autoencoders                           |   	          |   	              |   	                          |
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
-|**Module 4. Instance-level Recognition (Dec)**|9       |18                 |[\[Assignment #4\]]() |
+|**Module 4. Instance-level Recognition (Dec, 12—14)**|9       |18                 |[\[Assignment #4\]]() |
 |Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]() <br> papers: [FPN](https://arxiv.org/pdf/1612.03144.pdf), [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf)   	                          |
 |R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]() <br> papers:  <br>[R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf),  <br>[YOLO](https://arxiv.org/pdf/1506.02640.pdf), [YOLO9000](https://arxiv.org/pdf/1612.08242.pdf), [YOLOv3](https://arxiv.org/pdf/1804.02767.pdf),  <br>[SSD](https://arxiv.org/pdf/1512.02325.pdf)   	                          |
 |Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]() <br> papers: [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)   	                          |
