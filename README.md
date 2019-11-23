@@ -35,11 +35,12 @@
 |Autoencoders                           |   	          |   	              |[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)   	                          |
 |VAE, GANs                              |   	          |   	              |[\[slides\]](./module3-generative-models/lecture2.pdf)   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
-|**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 |[\[Assignment #4\]]() |
+|**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
-|Feature Detection, Description and Matching|   	      |   	              |[\[slides\]]() <br> 
-|N-View Scene Reconstruction|   	          |   	              |[\[slides\]]() <br> |
-|**\*optional: Face Recognition**       |               |                   |papers:  <br> [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
+|Feature Detection, Description and Matching|||[\[slides\]]() <br> 
+|N-View Scene Reconstruction|||[\[slides\]]() <br> [\[Assignment #4\]]() |
+|**\*optional: Object Detection**|||papers:|
+|**\*optional: Face Recognition**|||papers:  <br> [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
 |**Total**                              |36             |72                 |                               |
 
 
