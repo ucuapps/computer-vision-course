@@ -57,12 +57,12 @@
 ## Recommended Materials
 **main:**
 * cs231n ([course notes](http://cs231n.github.io) | [video lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))
-* Multiple View Geometry in Computer Vision by Hartley, Zisserman ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
-* Elements of Geometry in Computer Vision by Pajdla ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
+* Multiple View Geometry in Computer Vision by Hartley and Zisserman. ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
+* Elements of Geometry in Computer Vision by Pajdla ([book](https://cw.felk.cvut.cz/courses/GVG/2013/Lecture/GVG-2013-Lecture.pdf))
 
 **optional:**
-* Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
-* Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002. ([pdf](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
+* Computer vision: algorithms and applications by Szeliski. ([book](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
+* Computer vision: a modern approach by Forsyth and Ponce. ([book](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
 * cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
-* EPFL Deep Learning course ([course](https://fleuret.org/ee559))
+* EPFL Deep Learning ([course](https://fleuret.org/ee559))
 * CS294-158 Deep Unsupervised Learning ([course](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
