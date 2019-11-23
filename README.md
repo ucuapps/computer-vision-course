@@ -28,13 +28,13 @@
 |CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1-intro/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
 |**Module 2. Image Segmentation <br> (Oct, 11—14)**                    |9              |18                   | |
-|Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
-|Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
-|Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
-|**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   |[\[Assignment #3\]]() |
-|Autoencoders                           |   	          |   	              |[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)   	                          |
-|VAE, GANs                              |   	          |   	              |[\[slides\]](./module3-generative-models/lecture2.pdf)   	                          |
-|CNNs for Image Restoration             |   	          |   	              |   	                          |
+|Problem Statement<br>CNNs for Semantic Segmentation|||[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
+|Retina Blood Vessel Segmentation|||[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
+|Deep Automatic Portrait Matting|||[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
+|**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   ||
+|Autoencoders|||[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)|
+|VAE, GANs|||[\[slides\]](./module3-generative-models/lecture2.pdf)|
+|CNNs for Image Restoration|||[\[Assignment #3\]]()|
 |**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
 |Feature Detection, Description and Matching|||[\[slides\]]() <br> 
