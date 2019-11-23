@@ -23,7 +23,7 @@
 ## Schedule and Syllabus
 |   	                           	      |Сlass Hours    |Self work hours    |Course Materials   |
 |---	                                  |---	          |---	              |---	     	         |
-|**Module 1. Introduction <br> (Sep 17; Oct 1)**       |9              |18                 |[Deep Learning for Computer Vision](https://github.com/lyubonko/ucu2019)<br>[\[Assignment #1\]]() |
+|**Module 1. Introduction <br> (17 Sep; 1 Oct)**       |9              |18                 |[Deep Learning for Computer Vision](https://github.com/lyubonko/ucu2019)<br>[\[Assignment #1\]]() |
 |Intro to CNN    	                      |   	          |   	              |[\[slides\]](./module1-intro/lecture1_intro.pdf)   	                          |
 |CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1-intro/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
@@ -31,11 +31,11 @@
 |Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
 |Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
 |Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
-|**Module 3. Generative Models <br> (Nov 23; )**  |9              |18                   |[\[Assignment #3\]]() |
+|**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   |[\[Assignment #3\]]() |
 |Autoencoders                           |   	          |   	              |   	                          |
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
-|**Module 4. Geometry in Computer Vision <br> (Dec 10; Dec 14; Dec 17)**|9       |18                 |[\[Assignment #4\]]() |
+|**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 |[\[Assignment #4\]]() |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
 |Feature Detection, Description and Matching|   	      |   	              |[\[slides\]]() <br> 
 |N-View Scene Reconstruction|   	          |   	              |[\[slides\]]() <br> |
