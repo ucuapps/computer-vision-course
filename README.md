@@ -64,5 +64,5 @@
 * Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
 * Forsyth, David A., and Jean Ponce. Computer vision: a modern approach. Prentice Hall Professional Technical Reference, 2002. ([pdf](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
 * cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
-* EPFL DL course ([course](https://fleuret.org/ee559))
-* CS294-158 Deep Unsupervised Learning ([course notes](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
+* EPFL Deep Learning course ([course](https://fleuret.org/ee559))
+* CS294-158 Deep Unsupervised Learning ([course](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
