@@ -32,8 +32,8 @@
 |Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
 |Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
 |**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   |[\[Assignment #3\]]() |
-|Autoencoders                           |   	          |   	              |   	                          |
-|VAE, GANs                              |   	          |   	              |   	                          |
+|Autoencoders                           |   	          |   	              |[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)   	                          |
+|VAE, GANs                              |   	          |   	              |[\[slides\]](./module3-generative-models/lecture2.pdf)   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
 |**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 |[\[Assignment #4\]]() |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
