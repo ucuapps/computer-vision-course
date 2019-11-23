@@ -35,7 +35,7 @@
 |Autoencoders|||[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)|
 |VAE, GANs|||[\[slides\]](./module3-generative-models/lecture2.pdf)|
 |CNNs for Image Restoration|||[\[Assignment #3\]]()|
-|**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
+|**Module 4. Geometry in CV <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
 |Feature Detection, Description and Matching|||[\[slides\]]() <br> 
 |N-View Scene Reconstruction|||[\[slides\]]() <br> [\[Assignment #4\]]() |
