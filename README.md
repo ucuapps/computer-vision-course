@@ -31,14 +31,14 @@
 |Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
 |Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
 |Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
-|**Module 3. Generative Models <br> (Nov, 22—25)**  |9              |18                   |[\[Assignment #3\]]() |
+|**Module 3. Generative Models <br> (Nov 23; )**  |9              |18                   |[\[Assignment #3\]]() |
 |Autoencoders                           |   	          |   	              |   	                          |
 |VAE, GANs                              |   	          |   	              |   	                          |
 |CNNs for Image Restoration             |   	          |   	              |   	                          |
-|**Module 4. Instance-level Recognition <br> (Dec, 12—14)**|9       |18                 |[\[Assignment #4\]]() |
-|Modules and Objectives for Instance-level Recognition| |   	              |[\[slides\]]() <br> papers: [FPN](https://arxiv.org/pdf/1612.03144.pdf), [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf)   	                          |
-|R-CNN family, YOLO, SSD for Object Detection|   	      |   	              |[\[slides\]]() <br> papers:  <br>[R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf),  <br>[YOLO](https://arxiv.org/pdf/1506.02640.pdf), [YOLO9000](https://arxiv.org/pdf/1612.08242.pdf), [YOLOv3](https://arxiv.org/pdf/1804.02767.pdf),  <br>[SSD](https://arxiv.org/pdf/1512.02325.pdf)   	                          |
-|Mask R-CNN for Instance Segmentation   |   	          |   	              |[\[slides\]]() <br> papers: [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)   	                          |
+|**Module 4. Geometry in Computer Vision <br> (Dec 10; Dec 14; Dec 17)**|9       |18                 |[\[Assignment #4\]]() |
+|Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
+|Feature Detection, Description and Matching|   	      |   	              |[\[slides\]]() <br> 
+|N-View Scene Reconstruction|   	          |   	              |[\[slides\]]() <br> |
 |**\*optional: Face Recognition**       |               |                   |papers:  <br> [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
 |**Total**                              |36             |72                 |                               |
 
@@ -57,12 +57,12 @@
 ## Recommended Materials
 **main:**
 * cs231n ([course notes](http://cs231n.github.io) | [video lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))
-* Multiple View Geometry in Computer Vision by Hartley and Zisserman. ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
+* Multiple View Geometry in Computer Vision by Hartley and Zisserman ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
 * Elements of Geometry in Computer Vision by Pajdla ([book](https://cw.felk.cvut.cz/courses/GVG/2013/Lecture/GVG-2013-Lecture.pdf))
 
 **optional:**
-* Computer vision: algorithms and applications by Szeliski. ([book](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
-* Computer vision: a modern approach by Forsyth and Ponce. ([book](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
+* Computer vision: algorithms and applications by Szeliski ([book](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
+* Computer vision: a modern approach by Forsyth and Ponce ([book](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf))
 * cs131 ([course notes](https://github.com/StanfordVL/CS131_notes))
 * EPFL Deep Learning ([course](https://fleuret.org/ee559))
 * CS294-158 Deep Unsupervised Learning ([course](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
