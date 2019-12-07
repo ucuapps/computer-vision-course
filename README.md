@@ -28,18 +28,19 @@
 |CNNs for Image Classification          |   	          |   	              |[\[slides\]](./module1-intro/lecture2_CNN.pdf)   	                          |
 |CNNs for OCR    	                      |   	          |   	              |   	                          |
 |**Module 2. Image Segmentation <br> (Oct, 11—14)**                    |9              |18                   | |
-|Problem Statement<br>CNNs for Semantic Segmentation|            	          |   	              |[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
-|Retina Blood Vessel Segmentation         |   	          |   	              |[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
-|Deep Automatic Portrait Matting      |   	          |   	                  |[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
-|**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   |[\[Assignment #3\]]() |
-|Autoencoders                           |   	          |   	              |   	                          |
-|VAE, GANs                              |   	          |   	              |   	                          |
-|CNNs for Image Restoration             |   	          |   	              |   	                          |
-|**Module 4. Geometry in Computer Vision <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 |[\[Assignment #4\]]() |
+|Problem Statement<br>CNNs for Semantic Segmentation|||[\[slides\]](./module2-segmentation/lecture1_image_segmentation.pdf)   	                          |
+|Retina Blood Vessel Segmentation|||[\[code & data\]](https://drive.google.com/open?id=1eVKexzcwlbF-FEDg1unjSmRk0TgRZbBM)   	                          |
+|Deep Automatic Portrait Matting|||[\[Assignment #2\]](https://drive.google.com/open?id=1VV7bzGQH717wxK6kSBtR96R5KvHajFpO)                               |
+|**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   ||
+|Autoencoders|||[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)|
+|VAE, GANs|||[\[slides\]](./module3-generative-models/lecture2.pdf)|
+|CNNs for Image Restoration|||[\[slides\]]() <br> [\[Assignment #3\]]()|
+|**Module 4. Geometry in CV <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
-|Feature Detection, Description and Matching|   	      |   	              |[\[slides\]]() <br> 
-|N-View Scene Reconstruction|   	          |   	              |[\[slides\]]() <br> |
-|**\*optional: Face Recognition**       |               |                   |papers:  <br> [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
+|Feature Detection, Description and Matching|||[\[slides\]]() <br> 
+|N-View Scene Reconstruction|||[\[slides\]]() <br> [\[Assignment #4\]]() |
+|**\*optional: Instance-level Recognition**|||papers: [FPN](https://arxiv.org/pdf/1612.03144.pdf), [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf), <br>[R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf), <br>[YOLO](https://arxiv.org/pdf/1506.02640.pdf), [YOLO9000](https://arxiv.org/pdf/1612.08242.pdf), [YOLOv3](https://arxiv.org/pdf/1804.02767.pdf), <br>[SSD](https://arxiv.org/pdf/1512.02325.pdf), <br>[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+|**\*optional: Face Recognition**|||papers:  <br> [DeepFace](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [Deep Face Recognition](http://cis.csuohio.edu/~sschung/CIS660/DeepFaceRecognition_parkhi15.pdf)                               |
 |**Total**                              |36             |72                 |                               |
 
 
@@ -59,6 +60,7 @@
 * cs231n ([course notes](http://cs231n.github.io) | [video lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))
 * Multiple View Geometry in Computer Vision by Hartley and Zisserman ([book](https://github.com/pranjals16/cs676/blob/master/Hartley%2C%20Zisserman%20-%20Multiple%20View%20Geometry%20in%20Computer%20Vision.pdf))
 * Elements of Geometry in Computer Vision by Pajdla ([book](https://cw.felk.cvut.cz/courses/GVG/2013/Lecture/GVG-2013-Lecture.pdf))
+
 
 **optional:**
 * Computer vision: algorithms and applications by Szeliski ([book](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf))
