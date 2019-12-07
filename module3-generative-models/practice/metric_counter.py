@@ -21,13 +21,15 @@ class MetricCounter():
         self.G_loss = []
         self.D_loss = []
         self.content_loss = []
+        self.feature_loss = []
         self.adv_loss = []
         self.psnr = []
         self.ssim = []
 
-    def add_losses(self, l_G, l_content, l_D=0):
+    def add_losses(self, l_G, l_content, l_feature, l_D=0):
         self.G_loss.append(l_G)
         self.content_loss.append(l_content)
+        self.feature_loss.append(l_feature)
         self.adv_loss.append(l_G - l_content)
         self.D_loss.append(l_D)
 
@@ -45,6 +47,7 @@ class MetricCounter():
         scalar_prefix = 'Validation' if validation else 'Train'
         self.writer.add_scalar('{}_G_Loss'.format(scalar_prefix), np.mean(self.G_loss), epoch_num)
         self.writer.add_scalar('{}_D_Loss'.format(scalar_prefix), np.mean(self.D_loss), epoch_num)
+        self.writer.add_scalar('{}_G_feature'.format(scalar_prefix), np.mean(self.feature_loss), epoch_num)
         self.writer.add_scalar('{}_G_Loss_adv'.format(scalar_prefix), np.mean(self.adv_loss), epoch_num)
         self.writer.add_scalar('{}_G_Loss_content'.format(scalar_prefix), np.mean(self.content_loss), epoch_num)
         self.writer.add_scalar('{}_SSIM'.format(scalar_prefix), np.mean(self.ssim), epoch_num)

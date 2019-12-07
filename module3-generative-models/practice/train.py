@@ -45,13 +45,13 @@ class Trainer(object):
 			if self.metric_counter.update_best_model():
 				torch.save({
 					'model': self.netG.state_dict()
-				}, 'best_{}.h5'.format(self.config['experiment_desc']))
+				}, 'best_{}.h5'.format(self.experiment_name))
 			torch.save({
 				'model': self.netG.state_dict()
-			}, 'last_{}.h5'.format(self.config['experiment_desc']))
+			}, 'last_{}.h5'.format(self.experiment_name))
 			print(self.metric_counter.loss_message())
 			logging.debug("Experiment Name: %s, Epoch: %d, Loss: %s" % (
-				self.config['experiment_desc'], epoch, self.metric_counter.loss_message()))
+				self.experiment_name, epoch, self.metric_counter.loss_message()))
 
 	def _run_epoch(self, epoch):
 		self.metric_counter.clear()
@@ -92,7 +92,7 @@ class Trainer(object):
 			loss_G = self.config['model']['content_coef'] * loss_content + \
 					 self.config['model']['adv_coef'] * loss_adv + \
 					 self.config['model']['feature_coef'] * loss_vgg
-			self.metric_counter.add_losses(loss_G.item(), loss_content.item())
+			self.metric_counter.add_losses(loss_G.item(), loss_content.item(), loss_vgg.item())
 			curr_psnr, curr_ssim = self.model.get_acc(outputs, targets)
 			self.metric_counter.add_metrics(curr_psnr, curr_ssim)
 		tq.close()

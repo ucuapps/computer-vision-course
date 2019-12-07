@@ -105,6 +105,15 @@ class GANLoss(nn.Module):
 			self.loss = nn.BCEWithLogitsLoss()
 
 	def get_target_tensor(self, input, target_is_real):
+		"""Create label tensors with the same size as the input.
+
+		Parameters:
+		    input (tensor) - - typically the prediction from a discriminator
+		    target_is_real (bool) - - if the ground truth label is for real images or fake images
+
+		Returns:
+		    A label tensor filled with ground truth label, and with the size of the input
+		    """
 		if target_is_real:
 			create_label = ((self.real_label_var is None) or
 							(self.real_label_var.numel() != input.numel()))
@@ -124,6 +133,7 @@ class GANLoss(nn.Module):
 	def __call__(self, input, target_is_real):
 		target_tensor = self.get_target_tensor(input, target_is_real)
 		return self.loss(input, target_tensor)
+
 
 class DiscLoss(nn.Module):
 	def name(self):

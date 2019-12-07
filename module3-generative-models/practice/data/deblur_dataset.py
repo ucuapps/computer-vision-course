@@ -72,7 +72,7 @@ class DeblurDataset(data.Dataset):
 
         self.A_paths = sorted(self.A_paths)
         self.B_paths = sorted(self.B_paths)
-        return sorted(self.A_paths), sorted(self.B_paths)
+        return self.A_paths, self.B_paths
 
     def __getitem__(self, index):
         A_path = self.A_paths[index % self.A_size]

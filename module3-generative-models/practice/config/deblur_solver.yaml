@@ -12,7 +12,7 @@ model:
     d_layers: 3
     content_loss: l1
     feature_loss: perceptual
-    disc_loss: wgan-gp
+    disc_loss: ragan
     content_coef: 0.5
     feature_coef: 0.006
     adv_coef: 0.001
