@@ -34,7 +34,7 @@
 |**Module 3. Generative Models <br> (23 Nov; Nov, 29—30)**  |9              |18                   ||
 |Autoencoders|||[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)|
 |VAE, GANs|||[\[slides\]](./module3-generative-models/lecture2_vae_gan.pdf)|
-|CNNs for Image Restoration|||[\[slides\]](./module3-generative-models/lecture3_image_estoration.pdf) <br> [\[code\]](./module3-generative-models/practice) [\[data\]](https://www.dropbox.com/sh/fbe688d98v920zs/AAAykJXYKQUc5T-fmGyNZp0Xa/GOPRO/GOPRO_Original) <br> [\[Assignment #3\]](https://cms.ucu.edu.ua/mod/assign/view.php?id=95253)|
+|CNNs for Image Restoration|||[\[slides\]](./module3-generative-models/lecture3_image_estoration.pdf) <br> [\[code\]](./module3-generative-models/practice) [\[data\]](https://www.dropbox.com/sh/fbe688d98v920zs/AAAykJXYKQUc5T-fmGyNZp0Xa/GOPRO/GOPRO_Original) [\[data2\]](https://www.dropbox.com/sh/fbe688d98v920zs/AACZdIJuscmwt__zDZV8IiEIa?dl=0) <br> [\[Assignment #3\]](https://cms.ucu.edu.ua/mod/assign/view.php?id=95253)|
 |**Module 4. Geometry in CV <br> (10 Dec; 14 Dec; 17 Dec)**|9       |18                 | |
 |Camera Calibration and Pose Estimation| ||[\[slides\]]() <br>    	                          |
 |Feature Detection, Description and Matching|||[\[slides\]]() <br> 
