@@ -35,7 +35,7 @@
 |Autoencoders|||[\[slides\]](./module3-generative-models/lecture1_autoencoders.pdf)|
 |VAE, GANs|||[\[slides\]](./module3-generative-models/lecture2_vae_gan.pdf)|
 |CNNs for Image Restoration|||[\[slides\]](./module3-generative-models/lecture3_image_estoration.pdf) <br> [\[code\]](./module3-generative-models/practice) [\[data\]](https://www.dropbox.com/sh/fbe688d98v920zs/AAAykJXYKQUc5T-fmGyNZp0Xa/GOPRO/GOPRO_Original) [\[more data\]](https://www.dropbox.com/sh/fbe688d98v920zs/AACZdIJuscmwt__zDZV8IiEIa?dl=0) <br> [\[Assignment #3\]](https://cms.ucu.edu.ua/mod/assign/view.php?id=95253)|
-|**Module 4. Geometry in CV <br> (14 Dec; 17 Dec)**|9       |18                 | |
+|**Module 4. Geometry in CV <br> (14 Dec; 17 Dec; 24 Dec)**|9       |18                 | |
 |Camera Models and Calibration| ||[\[slides\]](./module4-geometry/lecture1_camera_calibration.pdf) [\[code soon\]]()|
 |Homography Estimation, Correspondence Problem|||[\[slides\]](./module4-geometry/lecture2_homography_correspondence.pdf) [\[code\]](./module4-geometry/practice2_homography/practice2_homography_with_tasks.ipynb)|
 |Robust Estimation, Image Stitching|||[\[slides soon\]](./module4-geometry/) [\[code soon\]](./module4-geometry/) <br> [\[Assignment #4 soon\]]()|
